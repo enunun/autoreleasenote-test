@@ -23,6 +23,6 @@ changelog:
     labels: 'style'
   - title: '🔗 Dependency Updates' 
     labels: 'dependency'
-    - title: Other Changes
-      labels:
+  - title: Other Changes
+    labels:
         - "*"
