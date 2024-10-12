@@ -7,14 +7,22 @@ changelog:
     authors:
       - octocat
   categories:
-    - title: Breaking Changes 🛠
-      labels:
-        - Semver-Major
-        - breaking-change
-    - title: Exciting New Features 🎉
-      labels:
-        - Semver-Minor
-        - enhancement
+  - title: '🚀 Features'
+    labels: 'feature'
+  - title: '🐛 Bug Fixes'
+    labels: 'bug'
+  - title: '🔧 Enhancements'
+    labels: 'enhancement'
+  - title: '📚 Documentation'
+    labels: 'documentation'
+  - title: '⚡ Performance Improvements'
+    labels: 'performance'
+  - title: '⚠️ Deprecation'
+    labels: 'deprecate'
+  - title: '🎨 Style Changes'
+    labels: 'style'
+  - title: '🔗 Dependency Updates' 
+    labels: 'dependency'
     - title: Other Changes
       labels:
         - "*"
