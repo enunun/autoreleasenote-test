@@ -8,21 +8,26 @@ changelog:
       - octocat
   categories:
   - title: '🚀 Features'
-    labels: 'feature'
+    labels: 
+      - 'feature'  # 配列形式で指定
   - title: '🐛 Bug Fixes'
-    labels: 'bug'
+    labels: 
+      - 'bug'  # 配列形式で指定
   - title: '🔧 Enhancements'
-    labels: 'enhancement'
+    labels: 
+      - 'enhancement'  # 配列形式で指定
   - title: '📚 Documentation'
-    labels: 'documentation'
+    labels: 
+      - 'documentation'  # 配列形式で指定
   - title: '⚡ Performance Improvements'
-    labels: 'performance'
+    labels: 
+      - 'performance'  # 配列形式で指定
   - title: '⚠️ Deprecation'
-    labels: 'deprecate'
+    labels: 
+      - 'deprecate'  # 配列形式で指定
   - title: '🎨 Style Changes'
-    labels: 'style'
-  - title: '🔗 Dependency Updates' 
-    labels: 'dependency'
-  - title: Other Changes
-    labels:
-        - "*"
+    labels: 
+      - 'style'  # 配列形式で指定
+  - title: '🔗 Dependency Updates'
+    labels: 
+      - 'dependency'  # 配列形式で指定
