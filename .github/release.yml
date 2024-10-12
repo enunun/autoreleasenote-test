@@ -31,3 +31,9 @@ changelog:
   - title: '🔗 Dependency Updates'
     labels: 
       - 'dependency'  # 配列形式で指定
+  - title: '🔗 Dependency Updates'
+    labels: 
+      - 'dependency'  # 配列形式で指定
+  - title: 'Other changes'
+    labels:
+      - '*'
